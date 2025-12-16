@@ -1,2 +1,0 @@
-C:/Users/2007s/Desktop/Test/build/CMakeFiles/edit_cache.dir
-C:/Users/2007s/Desktop/Test/build/CMakeFiles/rebuild_cache.dir
